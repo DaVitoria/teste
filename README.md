@@ -49,30 +49,30 @@ Site Screen Shorts
 
 Home Page
 
-<img src="https://github.com/DaVitoria/teste/Site__Screen__Shorts/img1.png">
+<img src="https://github.com/DaVitoria/teste/blob/main/Site__Screen__Shorts/img1.png">
 
 Pagina de Login
-<img src="https://github.com/DaVitoria/teste/Site__Screen__Shorts/img2.png">
+<img src="https://github.com/DaVitoria/teste/blob/main/Site__Screen__Shorts/img2.png">
 
 Dashboard 
 
-<img src="https://github.com/DaVitoria/teste/Site__Screen__Shorts/img3.png">
+<img src="https://github.com/DaVitoria/teste/blob/main/Site__Screen__Shorts/img3.png">
 
 Formulários de adição
 
-<img src="https://github.com/DaVitoria/teste/Site__Screen__Shorts/img4.png">
+<img src="https://github.com/DaVitoria/teste/blob/main/Site__Screen__Shorts/img4.png">
 
 Participantes
 
-<img src="https://github.com/DaVitoria/teste/Site__Screen__Shorts/img5.png">
+<img src="https://github.com/DaVitoria/teste/blob/main/Site__Screen__Shorts/img5.png">
 
 Transações
 
-<img src="https://github.com/DaVitoria/teste/Site__Screen__Shorts/img6.png">
+<img src="https://github.com/DaVitoria/teste/blob/main/Site__Screen__Shorts/img6.png">
 
 Formulário de Transação
 
-<img src="https://github.com/DaVitoria/teste/Site__Screen__Shorts/img7.png">
+<img src="https://github.com/DaVitoria/teste/blob/main/Site__Screen__Shorts/img7.png">
 
 
 ### Muito Obrigado !!!
