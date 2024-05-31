@@ -1,20 +1,18 @@
-# Basic Banking System
+# Sistema Básico de Poupança
 ## [Website Demo](https://pruthvi7384.000webhostapp.com/)
-## [Youtub Video](https://youtu.be/_NfUH89qRxk)
 
 Admin Login Cradntial
 
-username => `Spark Fundation Bank`
+username => `Elton da Vitoria`
 
 password => `admin`
     
-Employe Login Cradntial
+Participante
 
-username => `EM00001`
+username => `Testador1`
 
-password => `1234567890`
+password => `123456`
 
-I have developed  basic banking system web application as a web development intern in Spark Foundation I have used HTMl, CSS, JavaScript and PHP database as a MySQL.
 
 --------
 ## Technology Used
@@ -41,44 +39,40 @@ I have developed  basic banking system web application as a web development inte
 ## Step to Setup
 
 #### 1. Install a Xampp Server and start it. [install xampp server](https://www.apachefriends.org/index.html)
-#### 2. open the `htdocs` folder and create your own folder `like your name` then open `CMD` and type command =>
-    git clone https://github.com/pruthvi7384/Basic-Banking-System-PHP.git
-#### 3. Create Database Table `banking__system` and import file `diary.sql`
-#### 4. After Sussesful Clone open in Text Editor
-#### 5. Finaly Open The Browser and type `localhost`
-#### 6. Your Website Sussesfuly Runing In `localHost`
+#### 2. Create Database Table `banking__system` and import file `diary.sql`
+#### 3. After Sussesful Clone open in Text Editor
+#### 4. Finaly Open The Browser and type `localhost`
+#### 5. Your Website Sussesfuly Runing In `localHost`
 
 Site Screen Shorts 
 -----
-Website Screen Short
-----
+
 Home Page
 
 <img src="https://github.com/pruthvi7384/Basic-Banking-System-PHP/blob/master/Site__Screen__Shorts/img1.png">
 
-Login Page
+Pagina de Login
+<img src="https://github.com/DaVitoria/teste/blob/master/Site__Screen__Shorts/img2.png">
 
-<img src="https://github.com/pruthvi7384/Basic-Banking-System-PHP/blob/master/Site__Screen__Shorts/img2.png">
+Dashboard 
 
-Dashboard Analytic
+<img src="https://github.com/DaVitoria/teste/blob/master/Site__Screen__Shorts/img3.png">
 
-<img src="https://github.com/pruthvi7384/Basic-Banking-System-PHP/blob/master/Site__Screen__Shorts/img3.png">
+Formulários de adição
 
-Add Customer / Add Employee Page
+<img src="https://github.com/DaVitoria/teste/blob/master/Site__Screen__Shorts/img4.png">
 
-<img src="https://github.com/pruthvi7384/Basic-Banking-System-PHP/blob/master/Site__Screen__Shorts/img4.png">
+Participantes
 
-All Customer Page
+<img src="https://github.com/DaVitoria/teste/blob/master/Site__Screen__Shorts/img5.png">
 
-<img src="https://github.com/pruthvi7384/Basic-Banking-System-PHP/blob/master/Site__Screen__Shorts/img5.png">
+Transações
 
-All Transaction Page
+<img src="https://github.com/DaVitoria/testeblob/master/Site__Screen__Shorts/img6.png">
 
-<img src="https://github.com/pruthvi7384/Basic-Banking-System-PHP/blob/master/Site__Screen__Shorts/img6.png">
+Formulário de Transação
 
-Make Transaction Page
-
-<img src="https://github.com/pruthvi7384/Basic-Banking-System-PHP/blob/master/Site__Screen__Shorts/img7.png">
+<img src="https://github.com/DaVitoria/teste/blob/master/Site__Screen__Shorts/img7.png">
 
 
-### THANK YOU !!!
+### Muito Obrigado !!!
