@@ -1,7 +1,7 @@
 # Sistema Básico de Poupança
 ## [Website Demo](https://pruthvi7384.000webhostapp.com/)
 
-Admin Login Cradntial
+Admin Login Credenciais
 
 username => `Elton da Vitoria`
 
